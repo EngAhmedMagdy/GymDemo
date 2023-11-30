@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\bin\Debug\GymDemo.exe.config
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\bin\Debug\GymDemo.exe
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\bin\Debug\GymDemo.pdb
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.Form1.resources
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.Properties.Resources.resources
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.exe
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.pdb
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.Home.resources
+C:\Users\lenovo\Desktop\GymDemo\GymDemo\obj\Debug\GymDemo.Members.resources
